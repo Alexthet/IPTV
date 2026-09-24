@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF-1,Aniplus Asia
+#EXTINF:-1,Aniplus Asia
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-#EXTINF-1,Abente TV
+#EXTINF:-1,Abente TV
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-#EXTINF-1,Bilyonario News Channel
+#EXTINF:-1,Bilyonario News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-#EXTINF-1,CCTN 47
+#EXTINF:-1,CCTN 47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF-1,CLTV36
+#EXTINF:-1,CLTV36
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF-1,Crime & Investigation 
+#EXTINF:-1,Crime & Investigation 
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
-#EXTINF-1,DocuBay
+#EXTINF:-1,DocuBay
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
-#EXTINF-1,FilAm TV
+#EXTINF:-1,FilAm TV
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 #EXTINF:-1,Hope Channel Philippines
 https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
-#EXTINF-1,INC RADIO
+#EXTINF:-1,INC RADIO
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
-#EXTINF-1,INCTV
+#EXTINF:-1,INCTV
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
-#EXTINF-1,Intravel
+#EXTINF:-1,Intravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF-1,Kool TV
+#EXTINF:-1,Kool TV
 https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8
-#EXTINF-1,Living Asia
+#EXTINF:-1,Living Asia
 https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
-#EXTINF-1,Mindanow TV
+#EXTINF:-1,Mindanow TV
 https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
-#EXTINF-1,MNB WORLD
+#EXTINF:-1,MNB WORLD
 https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World/index.m3u8
-#EXTINF-1,Premier Sports
+#EXTINF:-1,Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF-1,Premier Sports 2
+#EXTINF:-1,Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
-#EXTINF-1,RTM ASEAN
+#EXTINF:-1,RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-#EXTINF-1,SMNI
+#EXTINF:-1,SMNI
 https://stream.kdlc.click/hls/0/stream.m3u8
-#EXTUNF-1,Vegas Life TV
+#EXTUNF:-1,Vegas Life TV
 https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
-#EXTINF-1,TVN ASIA HD
+#EXTINF:-1,TVN ASIA HD
 http://58.8.186.128:10005/bysid/2518
-#EXTINF-1,TV5 MONDE ASIA
+#EXTINF:-1,TV5 MONDE ASIA
 http://54.37.19.157/TV5MONDE/index.m3u8

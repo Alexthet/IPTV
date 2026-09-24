@@ -33,7 +33,7 @@ TV5 MONDE Asia
 
 LINK TO IPTV M3U:
 ```
-https://raw.githubusercontent.com/Alexthetech/IPHTV/refs//main/ph.m3u
+https://raw.githubusercontent.com/Alexthetech/IPHTV/refs/heads/main/ph.m3u
 ```
 ``
 

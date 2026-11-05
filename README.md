@@ -40,11 +40,55 @@ https://raw.githubusercontent.com/Alexthetech/IPHTV/refs/heads/main/ph.m3u
 ✓ Mindanow TV
 ✓ MNB WORLD TV
 ✓ Premier Sports
-✓Premier Sports 2
-✓RTM ASEAN
-✓SMNI
-✓Vegas Life TV
+✓ Premier Sports 2
+✓ RTM ASEAN
+✓ SMNI
+✓ Vegas Life TV
 ✓ TV5 MONDE Asia
+
+</details>
+
+<details>
+<summary><strong>International & Specialty Channels</strong></summary>
+
+**News & Finance**
+* ALJAZEERA
+* BBC News Asia Pacific
+* BBC World News
+* Bloomberg
+* CGTN News
+* Yahoo! Finance
+
+**Kids & Animation**
+* 3ABN Kids
+* Cartoonito
+* Disney Channel
+* Disney Jr
+* Disney XD
+* Kariakos Kids
+* Magic Kids
+* Moonbug Kids
+* Nickelodeon United
+* Persiana Junior
+
+**Entertainment, Movies & Lifestyle**
+* HBO SD & HD
+* HBO hits
+* HBO Signature
+* HBO Family
+  
+
+**Sports**
+* NBA TV
+* Tap Sports
+
+**Regional & Religious**
+* Arirang
+* EWTN Asia-Pacific
+* EWTN Europe
+* Zarok TV Sorani
+
+</details>
 
 ---
 

@@ -15,6 +15,7 @@ IPTV, or Internet Protocol Television, is a modern technology that allows people
 
 Add the following M3U URL directly into your preferred IPTV client (VLC, LiveTV app, OTT Navigator, Kodi, etc.):
 
+```text
 https://raw.githubusercontent.com/Alexthetech/IPHTV/refs/heads/main/ph.m3u
 ```
 ---
@@ -41,3 +42,17 @@ RTM ASEAN
 SMNI
 Vegas Life TV
 TV5 MONDE Asia
+
+---
+
+## Disclaimer
+
+This repository does not host, broadcast, or store any media files or video streams. All content is compiled from publicly accessible links on the internet. 
+
+The maintainer is not affiliated with the broadcasters, channels, or content providers referenced. Any copyright concerns regarding specific stream contents should be directed to the respective host or broadcaster holding distribution rights.
+
+---
+
+## Credits
+
+Credits to the open-source community and external contributors for locating and sharing publicly available M3U stream sources.

@@ -20,13 +20,12 @@ https://raw.githubusercontent.com/Alexthetech/IPHTV/refs/heads/main/ph.m3u
 ```
 ---
 
-#Channel Library
+#CHANNEL LIST
 
 <details>
 <summary><strong>Philippine Channels</strong></summary>
 
 ✓ Abante TV
-✓ Aniplus
 ✓ Bilyonario News Channel
 ✓ Cltv36
 ✓ CCTN-47
@@ -49,7 +48,7 @@ https://raw.githubusercontent.com/Alexthetech/IPHTV/refs/heads/main/ph.m3u
 </details>
 
 <details>
-<summary><strong>International & Specialty Channels</strong></summary>
+<summary><strong>International Channels</strong></summary>
 
 **News & Finance**
 * ALJAZEERA
@@ -61,15 +60,17 @@ https://raw.githubusercontent.com/Alexthetech/IPHTV/refs/heads/main/ph.m3u
 
 **Kids & Animation**
 * 3ABN Kids
+* Boomerang
+* Cartoon Network Asia
 * Cartoonito
 * Disney Channel
 * Disney Jr
 * Disney XD
-* Kariakos Kids
-* Magic Kids
 * Moonbug Kids
+* Nicktoons US
+* Nick Jr Asia
 * Nickelodeon United
-* Persiana Junior
+* Aniplus Asia
 
 **Entertainment, Movies & Lifestyle**
 * HBO SD & HD
@@ -86,7 +87,7 @@ https://raw.githubusercontent.com/Alexthetech/IPHTV/refs/heads/main/ph.m3u
 * Arirang
 * EWTN Asia-Pacific
 * EWTN Europe
-* Zarok TV Sorani
+* Zoo Moo
 
 </details>
 

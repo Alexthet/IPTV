@@ -16,3 +16,28 @@ IPTV, or Internet Protocol Television, is a modern technology that allows people
 Add the following M3U URL directly into your preferred IPTV client (VLC, LiveTV app, OTT Navigator, Kodi, etc.):
 
 https://raw.githubusercontent.com/Alexthetech/IPHTV/refs/heads/main/ph.m3u
+
+---
+
+#Channel Library
+
+Abante TV
+Aniplus
+Bilyonario News Channel
+Cltv36
+CCTN-47
+Docu Bay
+FilAm TV
+Hope Channel Philippines
+InTravel
+Inc Radio
+INCTV
+Living Asia Channel
+Mindanow TV
+MNB WORLD TV
+Premier Sports
+Premier Sports 2
+RTM ASEAN
+SMNI
+Vegas Life TV
+TV5 MONDE Asia

@@ -16,7 +16,7 @@ IPTV, or Internet Protocol Television, is a modern technology that allows people
 Add the following M3U URL directly into your preferred IPTV client (VLC, LiveTV app, OTT Navigator, Kodi, etc.):
 
 https://raw.githubusercontent.com/Alexthetech/IPHTV/refs/heads/main/ph.m3u
-
+```
 ---
 
 #Channel Library

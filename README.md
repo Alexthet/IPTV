@@ -21,7 +21,10 @@ https://raw.githubusercontent.com/Alexthetech/IPHTV/refs/heads/main/ph.m3u
 ---
 
 #Channel Library
-```
+
+<details>
+<summary><strong>Philippine Channels</strong></summary>
+
 Abante TV
 Aniplus
 Bilyonario News Channel
